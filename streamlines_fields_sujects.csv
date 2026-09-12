@@ -1,0 +1,65 @@
+stream,field_name,subject_name,requirement
+STEM,Medicine and Health Care,Biology,Required
+STEM,Medicine and Health Care,Chemistry,Required
+STEM,Medicine and Health Care,Physical Sciences,Required
+STEM,Medicine and Health Care,Mathematics,Required
+STEM,Medicine and Health Care,Life Sciences,Required
+STEM,Engineering,Mathematics,Required
+STEM,Engineering,Physical Sciences,Required
+STEM,Engineering,Chemistry,Required
+STEM,Engineering,Technical Drawing,Required
+STEM,Technology,Mathematics,Required
+STEM,Technology,Physical Sciences,Required
+STEM,Technology,Computer Applications Technology,Required
+STEM,Technology,Information Technology,Required
+STEM,Science and Research,Physical Sciences,Required
+STEM,Science and Research,Life Sciences,Required
+STEM,Science and Research,Mathematics,Required
+STEM,Science and Research,Computer Applications Technology,Required
+Commerce,Business and Finance,Business Studies,Required
+Commerce,Business and Finance,Accounting,Required
+Commerce,Business and Finance,Mathematics,Required
+Commerce,Business and Finance,Economics,Required
+Commerce,Hospitality and Tourism,Tourism,Required
+Commerce,Hospitality and Tourism,Hospitality Studies,Required
+Commerce,Hospitality and Tourism,Business Studies,Required
+Commerce,Hospitality and Tourism,Geography,Required
+Commerce,Hospitality and Tourism,History,Required
+Commerce,Hospitality and Tourism,Mathematical Literacy,Optional
+Commerce,Hospitality and Tourism,Consumer Studies,Required
+Humanities,Law and Legal Services,History,Required
+Humanities,Law and Legal Services,Business Studies,Required
+Humanities,Law and Legal Services,Economics,Required
+Humanities,Law and Legal Services,Mathematics,Required
+Humanities,Government and Public Services,History,Required
+Humanities,Government and Public Services,Business Studies,Required
+Humanities,Government and Public Services,Economics,Required
+Humanities,Government and Public Services,Accounting,Required
+Humanities,Government and Public Services,Mathematics,Required
+Humanities,Government and Public Services,Mathematical Literacy,Optional
+Humanities,Media and Communication,Economics,Required
+Humanities,Media and Communication,Business Studies,Required
+Humanities,Media and Communication,Psychology,Required
+Humanities,Media and Communication,Sociology,Required
+Humanities,Media and Communication,Anthropology,Required
+Humanities,Media and Communication,Computer Applications Technology,Required
+Humanities,Media and Communication,Mathematics,Required
+Humanities,Media and Communication,Mathematical Literacy,Optional
+Creative Art,Art and Design,Visual Arts,Required
+Creative Art,Art and Design,Music,Required
+Creative Art,Art and Design,Dramatic Arts,Required
+Creative Art,Art and Design,Design,Required
+Creative Art,Art and Design,Dance Studies,Required
+Creative Art,Art and Design,Mathematical Literacy,Optional
+Creative Art,Art and Design,English,Required
+Technical Vocational,Construction and Architecture,Physical Sciences,Required
+Technical Vocational,Construction and Architecture,Engineering Graphics and Design,Required
+Technical Vocational,Construction and Architecture,Technical Drawing,Required
+Technical Vocational,Construction and Architecture,Visual Arts,Required
+Technical Vocational,Construction and Architecture,Design,Required
+Technical Vocational,Construction and Architecture,Mathematics,Required
+Technical Vocational,Sports and Fitness,Life Orientation,Required
+Technical Vocational,Sports and Fitness,Life Sciences,Required
+Technical Vocational,Sports and Fitness,Physical Sciences,Required
+Technical Vocational,Sports and Fitness,Sports and Exercise Science,Required
+Technical Vocational,Sports and Fitness,Mathematics,Required

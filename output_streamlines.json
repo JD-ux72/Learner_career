@@ -1,0 +1,30 @@
+[
+    {
+        "STEM": "Medicine & Health care",
+        "Commerce": "Business & Finance",
+        "Humanities": "Law & Legal services",
+        "Creative Art": "Art & Design",
+        "Technical/ Vocational": "Construction & Architecture"
+    },
+    {
+        "STEM": "Engineering",
+        "Commerce": "",
+        "Humanities": "Government & Public Services",
+        "Creative Art": "Media & Communication",
+        "Technical/ Vocational": ""
+    },
+    {
+        "STEM": "Technology",
+        "Commerce": "",
+        "Humanities": "Hospitality & tourism",
+        "Creative Art": "",
+        "Technical/ Vocational": ""
+    },
+    {
+        "STEM": "Science & research",
+        "Commerce": "",
+        "Humanities": "",
+        "Creative Art": "",
+        "Technical/ Vocational": ""
+    }
+]
