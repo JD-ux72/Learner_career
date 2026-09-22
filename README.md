@@ -1,4 +1,4 @@
-🎓 Learner_Career
+###🎓 Learner_Career###
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Discover.+Think.+Connect.+Direct.;Explore+your+interests.;Connect+subjects+to+possibilities.;Build+your+career+direction." alt="Animated heading"/>An intelligent career-guidance system for Grade 10 learners.
 
@@ -18,7 +18,7 @@ The purpose is not to decide a learner's future, but to make possible pathways e
 
 ---
 
-<div align="center">🔵 ─────────────────────────────────────────────── 🔵
+
 
 </div>🧠 The Thinking Behind It
 
@@ -46,10 +46,8 @@ It is about thinking carefully about the problem before allowing the data to pro
 
 «“Intelligence begins with how we think about the problem.”»
 
+
 ---
-
-<div align="center">🔵 ─────────────────────────────────────────────── 🔵
-
 </div>⚙️ How It Works
 
 👤 Learner Profile
@@ -72,7 +70,6 @@ The system can analyse learner characteristics and identify relationships betwee
 
 ---
 
-<div align="center">🔵 ─────────────────────────────────────────────── 🔵
 
 </div>🛠️ Technical Stack
 
