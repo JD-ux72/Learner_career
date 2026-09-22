@@ -28,7 +28,7 @@ The purpose is not to decide a learner's future, but to make **possible pathways
 
 <div align="center">
 
-🔷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━🔷
+
 
 </div>
 
