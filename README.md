@@ -1,4 +1,4 @@
-###🎓 Learner_Career###
+##🎓 Learner_Career##
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Discover.+Think.+Connect.+Direct.;Explore+your+interests.;Connect+subjects+to+possibilities.;Build+your+career+direction." alt="Animated heading"/>An intelligent career-guidance system for Grade 10 learners.
 
