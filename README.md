@@ -54,36 +54,3 @@ THink.DWanaY helps shape the intelligence through a sequence of:
         DIRECT
 
 
-🛠️ Technical Stack
-�
-
-Core Intelligence
-�
-￼ 
-�
-￼ 
-�
-￼ 
-�
-￼ 
-
-
-
-Data & Visualisation
-�
-￼ 
-�
-￼ 
-�
-￼ 
-�
-￼ 
-
-
-
-Application & Development
-�
-￼ 
-�
-￼ 
-�
