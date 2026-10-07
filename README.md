@@ -38,7 +38,7 @@ The purpose is not to decide a learner's future, but to make **possible pathways
 
 Learner_Career is strongly influenced by **THink.DWanaY**, a structured thinking framework developed as the foundation for approaching data-driven problems.
 
-THink.DWanaY helps shape the intelligence through a sequence of:
+THink.DWanaY helped shape the intelligence through a sequence of:
 
 ```text
        OBSERVE
