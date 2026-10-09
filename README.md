@@ -1,4 +1,4 @@
-# 🎓 Learner_Career
+# 🎓 Pick10 
 
 <div align="center">
 
