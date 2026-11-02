@@ -16,7 +16,7 @@
 
 ## 🌱 About
 
-**Learner_Career** is a data-driven intelligence designed to help Grade 10 learners explore subject choices that align with their **interests, strengths and potential career fields**.
+**Learner_Career** is an intelligence designed to help Grade 10 learners explore subject choices that align with their **interests, strengths and potential career fields**.
 
 Instead of simply recommending subjects, the system explores the relationships between:
 
