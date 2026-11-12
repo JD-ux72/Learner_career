@@ -14,7 +14,7 @@
 
 ---
 
-## 🌱 About
+## 🌱 The About
 
 **Learner_Career** is an intelligence designed to help Grade 10 learners explore subject choices that align with their **interests, strengths and potential career fields**.
 
